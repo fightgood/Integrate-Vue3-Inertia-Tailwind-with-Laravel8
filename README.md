@@ -30,6 +30,7 @@ If the `laravel new awesome-app` returns `laravel: command not found` make sure 
 ---------------------------------------------------
 
 Tailwind requires the least amount of effort. We just need to install `postcss` and `autoprefixer` too. 
+
     npm install -D tailwindcss postcss autoprefixer
     
 Let's create the tailwind config file...  
