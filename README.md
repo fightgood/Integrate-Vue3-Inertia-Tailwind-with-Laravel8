@@ -9,7 +9,7 @@ For example, if it wasn't for Laravel's creator, Taylor Otwell, I think Vue woul
 
 So what I'm trying to point out is that Laravel will always try to adopt and support new cool JS frameworks or any other tool that's really a gamechanger. Inertia.js and Tailwind CSS are just two more tools that were added to the book that are really mind blowing.
 
-Before we dive in deep, we just want to make sure we have all the tools we need. We'll be using PHP 8, so make sure you have that installed, Composer and NPM. I'll briefly go over how to install Composer and NPM.
+Before we dive in deep, we just want to make sure we have all the tools we need. We'll be using PHP 7, so make sure you have that installed, Composer and NPM. I'll briefly go over how to install Composer and NPM.
 
 [](#installing-laravel)1. Installing Laravel
 -----------------------------------------
